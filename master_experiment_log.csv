@@ -1,0 +1,4 @@
+dataset,n,m,Delta,connected,is_brooks,k_delta_list,t_delta_list_ms,k_delta_plus_1,t_delta_plus_1_ms,date_time,python,platform,machine,processor,seed
+facebook_combined.txt,4039,88234,1045,1,1,88,10.883,86,6.755,2025-08-21T21:19:18.608798,3.7.16,Windows-10-10.0.26100-SP0,AMD64,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",42
+facebook_combined.txt,4039,88234,1045,1,1,88,26.023,85,256.140,2025-08-21T21:27:39.289826,3.7.16,Windows-10-10.0.26100-SP0,AMD64,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",42
+facebook_combined.txt,4039,88234,1045,1,1,88,11.873,85,177.037,2025-08-21T21:27:41.494995,3.7.16,Windows-10-10.0.26100-SP0,AMD64,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",42

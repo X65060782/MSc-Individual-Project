@@ -1,0 +1,4 @@
+dataset,n,m,Delta,connected,is_brooks,k_delta_list,t_delta_list_ms,k_delta_plus_1,t_delta_plus_1_ms
+facebook_combined.txt,4039,88234,1045,1,1,88,10.883,86,6.755
+facebook_combined.txt,4039,88234,1045,1,1,88,26.023,85,256.140
+facebook_combined.txt,4039,88234,1045,1,1,88,11.873,85,177.037
